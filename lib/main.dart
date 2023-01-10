@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
             // backgroundImage: NetworkImage(
             //   "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             // ),
-            backgroundImage: AssetImage("assets/images/foto2.jpeg"),
+            backgroundImage: AssetImage("assets/images/foto1.jpeg"),
           ),
           // Image.asset("assets/images/foto1.jpeg"),
 
