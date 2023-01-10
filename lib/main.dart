@@ -38,7 +38,7 @@ class HomePage extends StatelessWidget {
           ),
 
           Text(
-            "Fiorella Guadalupe Montes",
+            "Fiorella Guadalupe Arias",
             style: TextStyle(
               color: Colors.white,
               fontSize: 26.0,
